@@ -12,10 +12,10 @@ public class UserInputDemo {
 	public static void main(String[] args) {
 		// 1. Создание
 		Scanner inputScanner = new Scanner(System.in); // ВАЖНО ПЕРЕНЕСТИ!!!!
-		
+		inputScanner.useLocale(java.util.Locale.US);// контролирует точку
 		// 2. Передача
-		System.out.println("Eingabe ihren Vorname:");// ВАЖНО ПЕРЕДАТЬ!!!!
-		String booschtabeAingabe = demoStringInput(inputScanner);
+		System.out.println("Eingabe ihren Vorname:");
+		String booschtabeAingabe = demoStringInput(inputScanner); // ВАЖНО ПЕРЕДАТЬ!!!!
 		System.out.println("\nEingabe wie viel yahren haben Sie:");
 		Integer zahlenAingabe = demoZhalenInput(inputScanner);// ВАЖНО ПЕРЕДАТЬ!!!!
 		System.out.println("\nEingabe Bruchzahl:");
