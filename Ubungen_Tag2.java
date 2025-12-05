@@ -47,7 +47,7 @@
 
 import java.util.Random;
 
-public class Uebungen_Tag2 {
+public class Ubungen_Tag2 {
 
     public static void main(String[] args){
 
