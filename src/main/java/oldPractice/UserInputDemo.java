@@ -5,7 +5,7 @@
 // Вся строка			hasNextLine()	.trim().isEmpty()	nextLine()			String
 // Логическое			hasNextBoolean()					nextBoolean()		boolean
 
-
+package oldPractice;
 import java.util.Scanner; // ВАЖНО ПЕРЕНЕСТИ!!!!
 
 public class UserInputDemo {
@@ -34,15 +34,10 @@ public class UserInputDemo {
 		String analizAingabe = "";
 		int ifValid = 0;
 		
-
 		do {
-
 			int checkPrufung = 1;
-
 			analizAingabe = inputScanner.nextLine();
-
 			//uberprufung lear eingabe
-
 			if (analizAingabe.trim().isEmpty()) {
 				System.out.println("Eingabe solen hat booschtaben nischt lear, bitte noch einmall ein");
 				ifValid = 0;

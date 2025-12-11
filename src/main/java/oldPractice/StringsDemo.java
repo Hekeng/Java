@@ -5,7 +5,7 @@
 // Проверка начала		startsWith(String prefix)		Проверяет, начинается ли строка с префикса				boolean
 // Замена				replace(char old, char new)		Заменяет все вхождения символа на другой.				String
 // Обрезание			trim()							Удаляет пробелы в начале и конце строки.				String
-
+package oldPractice;
 import java.util.ArrayList; // ВАЖНО ПЕРЕНЕСТИ!!!!
 
 public class StringsDemo {
@@ -13,9 +13,9 @@ public class StringsDemo {
 		ArrayList <String> neuStringList = new ArrayList<>();// ВАЖНО ПЕРЕНЕСТИ!!!!
 		neuStringList.add("Oleg");
 		neuStringList.add("Alex");
-		//strLang(neuStringList);
+		strLang(neuStringList);
 		//convertToUppercase(neuStringList);
-		nameAutput(neuStringList);
+		//nameAutput(neuStringList);
 	}
 
 //получаем строку из масива

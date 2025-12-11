@@ -1,3 +1,5 @@
+package oldPractice;
+
 import java.util.Random;
 
 public class RandomDemo {

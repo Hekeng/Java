@@ -1,4 +1,4 @@
-// public class Main { // erste Klasse des Programms. Sie Beinhaltet die Main-Methode wo alles Ausgeführt wird
+package src.main.java.practice;// public class Main { // erste Klasse des Programms. Sie Beinhaltet die Main-Methode wo alles Ausgeführt wird
 //     public static void main(String[] args) {  // Die main-Methode muss public static void main(String[] args) sein um das Programm auszuführen
 
 //         // System.out.println("Hallo Welt!");

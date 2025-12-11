@@ -1,4 +1,4 @@
-// 1. Импортируем класс Scanner из пакета java.util
+package src.main.java.practice;// 1. Импортируем класс Scanner из пакета java.util
 import java.util.Scanner;
 
 public class practice_1_Scanner {
