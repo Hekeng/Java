@@ -5,7 +5,7 @@
 // Вся строка			hasNextLine()	.trim().isEmpty()	nextLine()			String
 // Логическое			hasNextBoolean()					nextBoolean()		boolean
 
-package practice;
+package UniversalClasses;
 
 import java.util.Scanner;
 

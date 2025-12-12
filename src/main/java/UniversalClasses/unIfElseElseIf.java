@@ -1,4 +1,4 @@
-package practice;
+package UniversalClasses;
 
 public class unIfElseElseIf {
 	public static void checkScore(int x) {

@@ -4,7 +4,7 @@
 // Максимум				MAX_VALUE			Хранит наибольшее возможное значение для int (около 2.1 миллиарда).	int
 // Минимум				MIN_VALUE			Хранит наименьшее возможное значение для int (отрицательное).		int
 
-package practice;
+package UniversalClasses;
 import java.util.ArrayList;
 
 public class unVariables {

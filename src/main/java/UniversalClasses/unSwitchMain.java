@@ -3,7 +3,7 @@
 // Из int в String		toString(int i)		Преобразует примитив int в строку (например, 42 в "42").			String
 // Максимум				MAX_VALUE			Хранит наибольшее возможное значение для int (около 2.1 миллиарда).	int
 // Минимум				MIN_VALUE			Хранит наименьшее возможное значение для int (отрицательное).		int
-package practice;
+package UniversalClasses;
 
 public class unSwitchMain {
 	public static void main(String[] args) {

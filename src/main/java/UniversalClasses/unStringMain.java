@@ -6,7 +6,7 @@
 // Замена				replace(char old, char new)		Заменяет все вхождения символа на другой.				String
 // Обрезание			trim()							Удаляет пробелы в начале и конце строки.				String
 
-package practice;
+package UniversalClasses;
 
 import java.util.ArrayList;
 

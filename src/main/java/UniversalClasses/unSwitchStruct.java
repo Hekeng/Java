@@ -1,4 +1,4 @@
-package practice;
+package UniversalClasses;
 
 public class unSwitchStruct {
 	public static void analise (int level) {

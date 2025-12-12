@@ -1,4 +1,4 @@
-package practice;
+package UniversalClasses;
 
 public class unSlow {
 	public static void slowFunc (int delayMilliseconds){

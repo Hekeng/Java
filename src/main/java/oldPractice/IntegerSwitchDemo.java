@@ -7,8 +7,8 @@
 
 package oldPractice;
 
-import practice.unIfElseElseIf;
-import practice.unSwitchStruct;
+import UniversalClasses.unIfElseElseIf;
+import UniversalClasses.unSwitchStruct;
 
 public class IntegerSwitchDemo {
 

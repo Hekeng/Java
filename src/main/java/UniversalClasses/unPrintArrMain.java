@@ -1,4 +1,4 @@
-package practice;
+package UniversalClasses;
 
 import java.util.ArrayList;
 
